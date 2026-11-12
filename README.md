@@ -4,3 +4,6 @@
 
 <h3>Project</h3>
 <p>My first project was a WhatsApp Bot, I made it with vibe coding. 😅</p>
+<ul>
+  <li>KikiaBot</li>
+</ul>
