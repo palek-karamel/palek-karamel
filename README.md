@@ -1,6 +1,6 @@
 <h1>Hi, I'm Palek 😉</h1>
 
-**palek-karamel/palek-karamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a bad vibe coder who can't even write code manually. I'm learning code fundamentals very slowly, hoping that one day i will remove the word vibe. 😆</p>
 
 Here are some ideas to get you started:
 
